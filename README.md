@@ -10,7 +10,7 @@ I have experience in data management and manipulation to be used to train machin
 I have some experience in C and C++ languages.<br>
 One of the environments that I like the most is the creation of video games, so I have excellent knowledge of the basics of creating projects in Unity 3D and I am aiming to deepen my skills in this field.
 <br><br>
-## 🛠️  Languages and Tools
+## 🛠️ Languages and Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40"/>&emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>&emsp;
@@ -26,3 +26,8 @@ One of the environments that I like the most is the creation of video games, so 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40"/>&emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>&emsp;
 </div>
+<br><br>
+
+## 🗿 Statistics
+![FireLion137's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelion137&show_icons=true&theme=tokyonight)<br><br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firelion137&show_icons=true&theme=tokyonight)<br><br>
