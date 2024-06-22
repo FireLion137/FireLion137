@@ -29,5 +29,5 @@ One of the environments that I like the most is the creation of video games, so 
 <br><br>
 
 ## 🗿 Statistics
-![FireLion137's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelion137&show_icons=true&theme=tokyonight)<br><br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firelion137&show_icons=true&theme=tokyonight)<br><br>
+![FireLion137's GitHub stats](https://github-readme-stats.vercel.app/api?username=firelion137&show_icons=true&theme=radical)<br><br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firelion137&show_icons=true&theme=radical)<br><br>
