@@ -1,6 +1,6 @@
 # About ✨ FireLion137 ✨
 Welcome to my GitHub profile!<br>
-I am a Student and I am studying Computer Science at the University of Salerno in Italy<br><br>
+I am a Student and I am studying Computer Science at the University of Salerno in Italy!<br><br>
 I started to get passionate about IT from a very young age, using an old computer and by playing video games.<br>
 As time went by I became more and more interested in technology in general and how the games or programs that I used so much as a kid were created, so I started to pursue my passions also in the world of study, choosing school and then later university that could be right for me.<br><br>
 I am currently finishing my three-year cycle for the degree in computer science, during which I have refined my skills in coding, team work and management, time management and project design.<br>
