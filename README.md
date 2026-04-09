@@ -3,7 +3,7 @@ Welcome to my GitHub profile!<br>
 I am a Student and I am studying Computer Science at the University of Salerno in Italy!<br><br>
 I started to get passionate about IT from a very young age, using an old computer and by playing video games.<br>
 As time went by I became more and more interested in technology in general and how the games or programs that I used so much as a kid were created, so I started to pursue my passions also in the world of study, choosing school and then later university that could be right for me.<br><br>
-I am currently finishing my three-year cycle for the degree in computer science, during which I have refined my skills in coding, team work and management, time management and project design.<br>
+I have a Bachelor's degree in Computer Science, during which I have refined my skills in coding, team work and management, time management and project design.<br>
 Thanks to university projects and my curiosity to learn even outside of studies, I can say that I have a great mastery of the Java language and modular programming, specifically in the creation of Backend in Java using Spring Framework and MVC/Repository patterns. I am quite familiar with relational database languages, especially MySQL.
 I also have good backend testing skills in Java using Mockito/JUnit and good knowledge on Frontend creation using Thymeleaf, basic CSS and Javascript/JQuery.<br>
 I have experience in data management and manipulation to be used to train machine learning and artificial intelligence algorithms created in Python.
