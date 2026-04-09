@@ -29,5 +29,5 @@ One of the environments that I like the most is the creation of video games, so 
 <br><br>
 
 ## 🗿 Statistics
-![Most Used Languages](./profile/top-langs.svg)<br><br>
-![FireLion137's GitHub stats](./profile/stats.svg)<br><br>
+<img src="./profile/top-langs.svg" alt="Most Used Languages" align="top"/>&nbsp;<img src="./profile/stats.svg" alt="FireLion137's GitHub Stats" align="top"/>
+<br><br>
