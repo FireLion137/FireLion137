@@ -16,18 +16,18 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+          options: username=${{ github.repository_owner }}&theme=radical&show_icons=true&include_all_commits=true&custom_title=FireLion137%27s+Stats
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide=prs,contribs
+          options: username=${{ github.repository_owner }}&theme=radical
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
